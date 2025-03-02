@@ -1,8 +1,6 @@
 # TRDM
 Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under Dynamic Fuzzy Imaging
 
-The dynamic blurred videos (supplementary material) have been placed in the code link under the name Supplementary_material_Dynamic_videos.zip
-
 To provide a clearer understanding of the spiral steel pipe production and defect detection process, we have included a supplementary material in our paper.
 
 
