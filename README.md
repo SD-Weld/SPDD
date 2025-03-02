@@ -1,4 +1,4 @@
-# TRDM
+# SPDD
 Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under Dynamic Fuzzy Imaging
 
 To provide a clearer understanding of the spiral steel pipe production and defect detection process, we have included a supplementary material in our paper.
