@@ -26,5 +26,3 @@ We will publish our code and datasets soon.
 
 ![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
 
-
-![ezgif com-video-to-gif-converted (6)](https://github.com/cuiwq777/TRDM/assets/154526698/78fe3622-5036-425b-8863-e42bdb49b4bf)
