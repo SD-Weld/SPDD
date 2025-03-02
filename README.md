@@ -3,8 +3,8 @@ Title: A Two-stage Real-time Discrimination Method for Spiral Weld Defects under
 
 The dynamic blurred videos (supplementary material) have been placed in the code link under the name Supplementary_material_Dynamic_videos.zip
 
-To provide readers with a clearer understanding of the spiral steel pipe production and defect detection process, we have included a detailed explanatory video, 
-which can be found at:  https://youtu.be/f1y_JqG9-D8
+To provide a clearer understanding of the spiral steel pipe production and defect detection process, we have included a supplementary material in our paper.
+
 
 This is the open source URL for the paper "SPDD: A Synergistic Perception Defect Detector for Complex Spiral Weld Images" submitted to IEEE Transactions on Industrial Informatics. 
 We will publish our code and datasets soon.
