@@ -3,6 +3,7 @@ Title: SPDD: A Synergistic Perception Defect Detector for Complex Spiral Weld Im
 
 To provide a clearer understanding of the spiral steel pipe production and defect detection process, we have included a supplementary material in our paper.
 
+Supplementary Material: [Bilibili](https://www.bilibili.com/video/BV1wU98YcEPA/) https://www.bilibili.com/video/BV1wU98YcEPA/
 
 This is the open source URL for the paper "SPDD: A Synergistic Perception Defect Detector for Complex Spiral Weld Images" submitted to IEEE Transactions on Industrial Informatics. 
 
