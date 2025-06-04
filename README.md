@@ -5,7 +5,7 @@ To provide a clearer understanding of the spiral steel pipe production and defec
 
 Supplementary Material: [Bilibili](https://www.bilibili.com/video/BV1wU98YcEPA/) https://www.bilibili.com/video/BV1wU98YcEPA/
 
-This is the open source URL for the paper "SPDD: A Synergistic Perception Defect Detector for Complex Spiral Weld Images" submitted to IEEE Transactions on Industrial Informatics. 
+This is the open source URL for the paper "SPDD: A Synergistic Perception Defect Detector for Complex Spiral Weld Images" submitted to Advanced Engineering Informatics. 
 
 
 We will publish our code and datasets soon.
