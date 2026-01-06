@@ -8,9 +8,10 @@ Supplementary Material: [Bilibili](https://www.bilibili.com/video/BV1wU98YcEPA/)
 This is the open source URL for the paper "SPDD: A Synergistic Perception Defect Detector for Complex Spiral Weld Images" submitted to Advanced Engineering Informatics. 
 
 
-We will publish our code and datasets soon.
+# Dataset
 
-
+The NEU-WELD-2000 dataset are available at [Baiduyun](https://pan.baidu.com/s/1GALT1cVEfatpnkNSvoLJMA?pwd=vg7n) 
+code: vg7n
 
 
 
